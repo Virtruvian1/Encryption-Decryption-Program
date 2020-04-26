@@ -1,0 +1,13 @@
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\obj\Debug\netcoreapp3.1\EncryptionExercise.csprojAssemblyReference.cache
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\obj\Debug\netcoreapp3.1\EncryptionExercise.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\obj\Debug\netcoreapp3.1\EncryptionExercise.AssemblyInfoInputs.cache
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\obj\Debug\netcoreapp3.1\EncryptionExercise.AssemblyInfo.cs
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\bin\Debug\netcoreapp3.1\EncryptionExercise.exe
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\bin\Debug\netcoreapp3.1\EncryptionExercise.deps.json
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\bin\Debug\netcoreapp3.1\EncryptionExercise.runtimeconfig.json
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\bin\Debug\netcoreapp3.1\EncryptionExercise.runtimeconfig.dev.json
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\bin\Debug\netcoreapp3.1\EncryptionExercise.dll
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\bin\Debug\netcoreapp3.1\EncryptionExercise.pdb
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\obj\Debug\netcoreapp3.1\EncryptionExercise.dll
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\obj\Debug\netcoreapp3.1\EncryptionExercise.pdb
+C:\Users\zacha\source\repos\EncryptionExercise\EncryptionExercise\obj\Debug\netcoreapp3.1\EncryptionExercise.genruntimeconfig.cache
